@@ -2,6 +2,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
+> Visit the live website at [Band Challenge: Multipage Website](https://jessicagozali.com.au/band-challenge-jg).
+
 A sample website created based on the Band Challenge. The challenge demonstrates the use of HTML and CSS in building a simple website with multiple pages. The theme would be your favourite band.
 
 Try the challenge yourself by following the below instructions.
